@@ -1,4 +1,4 @@
-# CS50-AI-Project0
+# CS50-AI-Projects
 
 --degrees
 --tictactoe
